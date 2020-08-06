@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hey awesome developer,
 
-<!--
-**Dharaneeshwar/Dharaneeshwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am Dharaneeshwar**, a student and a software developer who can build Websites and Android apps.  
 
-Here are some ideas to get you started:
+Check out my Website. [daranip.com](https://www.daranip.com "Dharaneeshwar Portfolio")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+while life:
+    eat(food)
+    sleep(sweet dreams)
+    code(ideas)   
+```
+
+
+- 🌱 I’m an everyday learner implementing random ideas.
+- 👯 I look forward to collaborating on developing Landing pages, Web apps, and Android apps.
+(Yeah! too many promises, lol😅)
+- 📫 How to reach me: Get to the **contact form** on my [website](https://daranip.com/#contact "Contact").
+- ⚡ Hobbies : Photography [My photos](https://www.instagram.com/darani.p/ "Instagram")
+
+``` 
+    Addiction is a CRIME ;
+    Your Time is the penalty ; 
+    - Dharaneeshwar
+``` 
