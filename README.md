@@ -2,7 +2,7 @@
 
 **I am Dharaneeshwar**, a student and a software developer who can build Websites and Android apps.  
 
-Check out my Website. [daranip.com](https://www.daranip.com "Dharaneeshwar Portfolio")
+Check out my Website. [daranip.com](https://daranip.com/ "Dharaneeshwar Portfolio")
 
 ```python
 while life:
