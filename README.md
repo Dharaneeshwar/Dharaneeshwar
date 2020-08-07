@@ -7,7 +7,7 @@ Check out my Website. [daranip.com](https://daranip.com/ "Dharaneeshwar Portfoli
 ```python
 while life:
     eat(food)
-    sleep(sweet dreams)
+    sleep(sweet_dreams)
     code(ideas)   
 ```
 
