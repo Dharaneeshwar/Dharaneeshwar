@@ -11,7 +11,7 @@ Check out my Website. [daranip.com](https://www.daranip.com/ "Dharaneeshwar Port
 - 🌱 I’m an everyday learner implementing random ideas.
 - 👯 I look forward to collaborating on developing Landing pages, Web apps, and Android apps.
 (Yeah! too many promises, lol😅)
-- 📫 How to reach me: Get to the **contact form** on my [website](https://daranip.com/#contact "Contact").
+- 📫 How to reach me: Get to the **contact form** on my [website](https://www.daranip.com/#contact "Contact").
 - ⚡ Hobbies : Photography [My photos](https://www.instagram.com/darani.p/ "Instagram")
 
 
