@@ -2,6 +2,8 @@
 
 **I am Dharaneeshwar**, a student and a software developer who can build Websites and Android apps.  
 
+<img src="https://komarev.com/ghpvc/?username=Dharaneeshwar" alt="Dharaneeshwar" />
+
 Check out my Website. [daranip.com](https://www.daranip.com/ "Dharaneeshwar Portfolio")
 
 <p>
