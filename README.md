@@ -8,4 +8,4 @@ Check out my Website. [daranip.com](https://www.daranip.com/ "Dharaneeshwar Port
 
 - 🌱 I’m an everyday learner implementing ideas through logic.
 - 📫 How to reach me: Get to the **contact form** on my [website](https://www.daranip.com/#contact "Contact").
-- ⚡ Hobbies: Photography (I wish I weren't stereotypical) [My photos](https://www.instagram.com/darani.p/ "Instagram")
+- ⚡ Hobbies: Photography (I wish I weren't stereotypical) [My photos](https://www.instagram.com/darani.captures/ "Instagram")
